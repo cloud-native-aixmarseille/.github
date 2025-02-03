@@ -1,0 +1,10 @@
+# Brand Guidelines - Cloud Native Aix-Marseille organization
+
+As the organization is member of the CNCF, it first and foremost follows the [CNCF brand guidelines](https://www.cncf.io/brand-guidelines/)
+
+## Logos
+
+### Square
+
+
+
