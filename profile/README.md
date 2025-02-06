@@ -4,7 +4,9 @@ Bienvenue sur la page officielle du Meetup **Cloud Native Aix-Marseille** ! 🎉
 
 ## Description
 
-Nous sommes un groupe de passionnés de **DevOps**, de **Cloud** et de **technologies modernes**, réunis dans la région d’Aix-Marseille. Depuis **2017**, nous organisons des **rencontres mensuelles** pour échanger, apprendre et partager autour de sujets techniques et culturels du monde DevOps.
+Le meetup #cloud-native-aix-marseille est pour tous les devops, les devs et les ops de la région Aix-Marseille et alentours.
+Nous sommes un groupe de passionnés de **DevOps**, de **Cloud** et de **technologies modernes**, réunis dans la région d’Aix-Marseille. 
+Depuis **2017**, nous organisons des **rencontres mensuelles** (meetups / workshops / REXs) pour échanger, apprendre et partager autour de de l'écosystème Cloud Native, du DevOps, de l'infrastructure, de l'intégration continue, de l'infra as code, etc.
 
 ## 📅 Nos meetups
 
