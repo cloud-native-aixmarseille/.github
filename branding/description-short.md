@@ -1,3 +1,3 @@
 # shorter description
 
-see [profile/README.md](../profile/README.md#Description)
+see [../README.md](../README.md#Description)

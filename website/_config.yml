@@ -1,0 +1,10 @@
+theme: minima
+
+title: Cloud Native Aix-Marseille
+
+header_pages:
+  - events.md
+  - code-of-conduct.md
+
+minima:
+  skin: auto
