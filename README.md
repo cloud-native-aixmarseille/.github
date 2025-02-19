@@ -50,6 +50,7 @@ Que vous soyez débutant, expert ou simplement curieux, notre communauté est ou
 - **CNCF community**: <https://community.cncf.io/cloud-native-aix-marseille>
 - **Conference Hall**: <https://conference-hall.io/meetup-cloud-native-aix-marseille>
 - **LinkedIn**: <https://www.linkedin.com/company/cloud-native-aix-marseille>
+- **Slack**: <https://openbar-community.slack.com/ssb/redirect>
 - **[Code of Conduct](https://www.cloudnative.aixmarseille.tech/code-of-conduct)**
 - **Site Web**: <https://www.cloudnative.aixmarseille.tech>
 - **GitHub** : <https://github.com/meetup-devops-aix-marseille>
