@@ -46,7 +46,7 @@ N’hésitez pas à explorer notre dépôt GitHub pour en savoir plus et à cont
 
 Que vous soyez débutant, expert ou simplement curieux, notre communauté est ouverte à tous. Retrouvez-nous ici :
 
-- **Page Meetup** : <https://www.meetup.com/fr-FR/devops-aix-marseille>
+- **Page Meetup** : <https://www.meetup.com/cloud-native-aix-marseille>
 - **CNCF community**: <https://community.cncf.io/cloud-native-aix-marseille>
 - **Conference Hall**: <https://conference-hall.io/meetup-cloud-native-aix-marseille>
 - **LinkedIn**: <https://www.linkedin.com/company/cloud-native-aix-marseille>
