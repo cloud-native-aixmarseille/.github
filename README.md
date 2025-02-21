@@ -46,13 +46,20 @@ N’hésitez pas à explorer notre dépôt GitHub pour en savoir plus et à cont
 
 Que vous soyez débutant, expert ou simplement curieux, notre communauté est ouverte à tous. Retrouvez-nous ici :
 
+- **Site Web**: <https://www.cloudnative.aixmarseille.tech>
+- **Code de conduite**: <https://www.cloudnative.aixmarseille.tech/code-of-conduct>
+
+### Réseaux sociaux
+
+Venez échanger avec nous et enrichir la culture Cloud Native & DevOps dans la région Aix-Marseille ! 🚀
+
 - **Page Meetup** : <https://www.meetup.com/cloud-native-aix-marseille>
 - **CNCF community**: <https://community.cncf.io/cloud-native-aix-marseille>
 - **Conference Hall**: <https://conference-hall.io/meetup-cloud-native-aix-marseille>
 - **LinkedIn**: <https://www.linkedin.com/company/cloud-native-aix-marseille>
 - **Slack**: <https://openbar-community.slack.com/ssb/redirect>
-- **[Code of Conduct](https://www.cloudnative.aixmarseille.tech/code-of-conduct)**
-- **Site Web**: <https://www.cloudnative.aixmarseille.tech>
-- **GitHub** : <https://github.com/meetup-devops-aix-marseille>
 
-Venez échanger avec nous et enrichir la culture Cloud Native & DevOps dans la région Aix-Marseille ! 🚀
+### Autres ressources
+
+- **GitHub** : <https://github.com/meetup-devops-aix-marseille>
+- **Branding** : <https://www.cloudnative.aixmarseille.tech/branding>

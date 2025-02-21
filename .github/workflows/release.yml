@@ -30,11 +30,19 @@ jobs:
           # Resolve all symlinked files
           find . -type l -exec sh -c '
           TARGET="$(readlink -f "{}")"
-          cp --remove-destination "$TARGET" "{}"
+          if [ -d "$TARGET" ]; then
+            rm -f "{}"
+            cp -R "$TARGET" "."
+          else
+            cp -R --remove-destination "$TARGET" "{}"
+          fi
           ' \;
 
           # Remove first heading in index.md
           sed -i '1d' index.md
+
+          # Rename all README.md to index.md
+          find . -name README.md -execdir sh -c 'mv README.md index.md' \;
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
