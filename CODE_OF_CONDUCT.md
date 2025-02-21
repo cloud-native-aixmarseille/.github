@@ -1,6 +1,6 @@
-# 📜 Code de Conduite – Meetup Cloud-Native Aix-Marseille
+# Code de Conduite
 
-Notre Meetup est un espace d’échange ouvert, respectueux et inclusif. Pour garantir un cadre agréable et bienveillant, nous nous engageons à respecter les principes suivants :
+📜 Notre Meetup Cloud-Native Aix-Marseille est un espace d’échange ouvert, respectueux et inclusif. Pour garantir un cadre agréable et bienveillant, nous nous engageons à respecter les principes suivants :
 
 ## 🎭 Respect & Inclusion
 
