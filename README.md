@@ -61,5 +61,5 @@ Venez échanger avec nous et enrichir la culture Cloud Native & DevOps dans la r
 
 ### Autres ressources
 
-- **GitHub** : <https://github.com/cloudnative-aix-marseille>
+- **GitHub** : <https://github.com/cloud-native-aixmarseille>
 - **Branding** : <https://www.cloudnative.aixmarseille.tech/branding>
