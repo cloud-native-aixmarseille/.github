@@ -13,14 +13,14 @@
 | Juillet | [2025-07-03](https://www.meetup.com/cloud-native-aix-marseille/events/308632725) |
 | Septembre | [2025-09-25](https://www.meetup.com/cloud-native-aix-marseille/events/310645306) |
 | Octobre | [2025-10-16](https://www.meetup.com/cloud-native-aix-marseille/events/311422592) |
-| Novembre | 2025-11-13 |
-| Décembre | 2025-12-11 |
+| Novembre | [2025-11-13](https://www.meetup.com/cloud-native-aix-marseille/events/311860502) |
+| Décembre | [2025-12-11](https://www.meetup.com/cloud-native-aix-marseille/events/312223865) |
 
 ## 2026
 
 | Mois    | Date cible |
 | ------- | ---------- |
-| Janvier | 2026-01-22 |
+| Janvier | [2026-01-22](https://www.meetup.com/cloud-native-aix-marseille/events/312769655) |
 | Février | 2026-02-12 |
 | Mars    | 2026-03-12 |
 | Avril   | 2026-04-09 |
