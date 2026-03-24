@@ -1,6 +1,11 @@
 # Cloud Native Aix-Marseille 🚀
 
-![logo](/branding/logo-square.png)
+<div align="center">
+  <img src="./branding/logo-square.png" width="100px" align="center" alt="Logo for Cloud Native Aix-Marseille" />
+</div>
+
+---
+
 Bienvenue sur la page officielle de l'organisation **Cloud Native Aix-Marseille** ! 🎉
 
 ## Description

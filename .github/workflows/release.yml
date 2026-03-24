@@ -4,63 +4,38 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+permissions: {}
 
 concurrency:
   group: "pages"
   cancel-in-progress: true
 
 jobs:
-  # Build job
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - run: |
-          cd website
-
-          # Resolve all symlinked files
-          find . -type l -exec sh -c '
-          TARGET="$(readlink -f "{}")"
-          if [ -d "$TARGET" ]; then
-            rm -f "{}"
-            cp -R "$TARGET" "."
-          else
-            cp -R --remove-destination "$TARGET" "{}"
-          fi
-          ' \;
-
-          # Remove first heading in index.md
-          sed -i '1d' index.md
-
-          # Rename all README.md to index.md
-          find . -name README.md -execdir sh -c 'mv README.md index.md' \;
-
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./website
-          destination: ./_site
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-
-  # Deployment job
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.url }}
     runs-on: ubuntu-latest
-    needs: build
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Checkout
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+
+      - id: build
+        uses: hoverkraft-tech/ci-github-publish/actions/deploy/jekyll@5ff7d4c3910971ed53834becd5967271b4e228cf # 0.21.1
+        with:
+          pages: |
+            README.md
+            CODE_OF_CONDUCT.md
+            branding/README.md
+          assets: |
+            branding/*.png
+          site-path: website
+
+      - id: deploy
+        uses: hoverkraft-tech/ci-github-publish/actions/deploy/github-pages@5ff7d4c3910971ed53834becd5967271b4e228cf # 0.21.1
+        with:
+          build-path: ${{ steps.build.outputs.build-path }}

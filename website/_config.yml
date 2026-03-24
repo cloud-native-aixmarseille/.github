@@ -4,7 +4,7 @@ title: Cloud Native Aix-Marseille
 
 header_pages:
   - events.md
-  - code-of-conduct.md
+  - code-of-conduct/index.md
 
 minima:
   skin: auto
