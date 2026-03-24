@@ -21,8 +21,8 @@
 | Mois    | Date cible |
 | ------- | ---------- |
 | Janvier | [2026-01-22](https://www.meetup.com/cloud-native-aix-marseille/events/312769655) |
-| Février | 2026-02-12 |
-| Mars    | 2026-03-12 |
+| Février | [2026-02-12](https://www.meetup.com/cloud-native-aix-marseille/events/313093627) |
+| Mars    | [2026-03-12](https://www.meetup.com/cloud-native-aix-marseille/events/313399973) |
 | Avril   | 2026-04-09 |
 | Mai     | 2026-05-21 |
 | Juin    | 2026-06-11 |
