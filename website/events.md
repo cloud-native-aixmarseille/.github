@@ -11,9 +11,9 @@ title: Evenements
 | Février | [2026-02-12](https://www.meetup.com/cloud-native-aix-marseille/events/313093627) | Easy Partner (Aix)        |
 | Mars    | [2026-03-12](https://www.meetup.com/cloud-native-aix-marseille/events/313399973) | La plateforme (Marseille) |
 | Avril   | [2026-04-09](https://www.meetup.com/cloud-native-aix-marseille/events/313939118) | Squad (Aix)               |
-| Mai     | [2026-05-21]()                                                                   | Marseille (à préciser) ?  |
-| Juin    | [2026-06-11]()                                                                   | Aix (à préciser)          |
-| Juillet | [2026-07-02]()                                                                   | Aix (à préciser) ?        |
+| Mai     | 2026-05-21                                                                       | WHub (Marseille)          |
+| Juin    | 2026-06-11                                                                       | Sopra (Aix)               |
+| Juillet | 2026-07-02                                                                       | Aix (à préciser) ?        |
 
 ## 2025
 
