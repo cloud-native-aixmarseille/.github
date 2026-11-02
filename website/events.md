@@ -29,7 +29,7 @@ title: Evenements
 | Août      | -                                                                                | -                         |
 | Septembre | [2026-09-10](https://www.meetup.com/cloud-native-aix-marseille/events/316400745) | Linxo (Aix)               |
 | Octobre   | 2026-10-15                                                                       | Klanik (Marseille)        |
-| Novembre  | 2026-11-05                                                                       | Easy Partner (Aix)        |
+| Novembre | [2026-11-05](https://www.meetup.com/cloud-native-aix-marseille/events/317221046/) | Easy Partner (Aix-en-Provence) |
 | Décembre  | -                                                                                | -                         |
 
 ## 2025
