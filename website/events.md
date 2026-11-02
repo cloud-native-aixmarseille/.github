@@ -28,7 +28,7 @@ title: Evenements
 | Juillet   | [2026-07-02](https://www.meetup.com/cloud-native-aix-marseille/events/315382395) | Softway Medical           |
 | Août      | -                                                                                | -                         |
 | Septembre | [2026-09-10](https://www.meetup.com/cloud-native-aix-marseille/events/316400745) | Linxo (Aix)               |
-| Octobre   | 2026-10-15                                                                       | Klanik (Marseille)        |
+| Octobre | [2026-10-15](https://www.meetup.com/cloud-native-aix-marseille/events/316655947/) | Klanik (Marseille) |
 | Novembre | [2026-11-05](https://www.meetup.com/cloud-native-aix-marseille/events/317221046/) | Easy Partner (Aix-en-Provence) |
 | Décembre  | -                                                                                | -                         |
 
